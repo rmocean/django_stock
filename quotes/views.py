@@ -1,3 +1,5 @@
+#Radu Mocean - All rights reserved (C)
+
 from django.shortcuts import render, redirect 
 from .models import Stock
 from .forms import StockForm
